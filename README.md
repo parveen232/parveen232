@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Parveen Kumar, an electrical engineering student.
-- 👀 I’m interested in Embedded Systems | IoT  
+- 👋 Hi, I’m Parveen Kumar, an electrical engineering student.  
 - 🌱 I’m currently learning Python | IoT | Arduino(TinkerCad) | NodeMCU ESP8266 | Raspberry Pi Pico
 
 
