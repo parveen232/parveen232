@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Parveen Kumar, an electrical engineering student.  
-- 🌱 I’m currently learning Embedded Systems | IoT | Arduino(TinkerCad) | NodeMCU ESP8266 | Raspberry Pi Pico | Python
+- 🌱 I’m currently learning Embedded Systems | IoT | Arduino | NodeMCU ESP8266 | Raspberry Pi Pico | Python
 
 
 <!---
