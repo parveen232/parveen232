@@ -1,7 +1,7 @@
 ## Hi, there! 👋
 
 - I'm a front-end developer.
-- I'm currently learning React.js.
+- I'm currently learning MERN Stack.
 - Check out my [Portfolio](https://parveen232.netlify.app/)
 
 ## Languages and Tools:
@@ -30,6 +30,15 @@
     </a>
     <a href="" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="50" height="40"/>
+    </a>
+    <a href="https://nodejs.org/en" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="40"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original-wordmark.svg" alt="expressjs" width="50" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="expressjs" width="50" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="figma" width="50" height="40"/>
