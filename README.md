@@ -2,7 +2,7 @@
 
 - I'm a front-end developer.
 - I'm currently learning MERN Stack.
-- Check out my [Portfolio](https://parveen232.netlify.app/)
+- Check out my [Portfolio](https://parveen232.tech)
 
 ## Languages and Tools:
 
