@@ -43,6 +43,12 @@
     <a href="https://www.gradio.app/" target="_blank">
       <img src="https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg" alt="gradio" width="50" height="40"/>
     </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="50" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" alt="docker" width="50" height="40"/>
+    </a>
     <a href="" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="50" height="40"/>
     </a>
